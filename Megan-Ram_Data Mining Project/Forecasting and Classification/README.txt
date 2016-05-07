@@ -1,0 +1,1 @@
+In order to run the R codes, replace the path to both excel spreadsheets with your own path. You will need to change the first 3 lines of code in both .R files. 
